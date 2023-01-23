@@ -1,0 +1,12 @@
+#wrap{
+    display: flex;
+    border: 1px solid black;
+    width: 50%;
+    margin: auto;
+    flex-direction: column;
+}
+.listDivs{
+    width: 100%;
+    border: 1px solid black;
+
+}
